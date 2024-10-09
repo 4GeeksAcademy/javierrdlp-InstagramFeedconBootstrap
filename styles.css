@@ -1,0 +1,41 @@
+.imagen{
+    width: 500px;
+    height: 500px;
+}
+.imagen2{
+    width: 100%;
+    height: 500px;
+}
+
+.barra{
+    width: 100%;
+    margin: 0;
+    margin-bottom: 20px;
+}
+
+.card{    
+    margin-top: 60px;
+}
+.card-tittle{    
+    margin: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav-link.active > i{    
+    color:rgb(0, 119, 255);    
+}
+
+.nav-link{
+    color: gray;    
+    background-color: white !important;
+}
+
+.icono{
+    font-size: 25px;
+}
+
+.barranavbar{
+    margin-left: -12px;
+    margin-right: -12px;
+}
